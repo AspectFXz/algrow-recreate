@@ -1,0 +1,5 @@
+You are logging every shot (every cut) in a YouTube video between {START} and {END} seconds, so the video can be recreated shot for shot with a different script. Return ONLY one valid JSON object: no markdown fence, no commentary. Log EVERY cut inside the window. Do not skip, group, or summarise. Timestamps are seconds with one decimal, measured from the start of the video.
+
+{"window": {"start": {START}, "end": {END}}, "shots": [
+ {"n": 1, "start": 0.0, "end": 3.4, "medium": "ai_image|photo|footage|diagram|title_card|generated_video", "framing": "wide|medium|close_up|macro|aerial", "angle": "eye_level|low|high|top_down", "subject": "what is in the frame, concrete nouns", "action": "what moves or happens, or static", "setting": "where", "lighting": "", "motion": "static|zoom_in|zoom_out|pan_left|pan_right|generated_motion", "text_on_screen": "exact text or null", "narration_gist": "5 to 12 words of what the narrator says over this shot", "image_prompt": "30 to 60 words that would regenerate this exact frame in the same style"}
+]}

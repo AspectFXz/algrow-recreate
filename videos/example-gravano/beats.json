@@ -1,0 +1,147 @@
+{
+ "beats": [
+  {
+   "n": 1,
+   "text": "February 24th, 2000. Phoenix.\n",
+   "framing": "wide",
+   "angle": "eye_level",
+   "motion": "zoom_in",
+   "image_prompt": "Low sunrise light across a quiet Phoenix apartment complex, tan stucco buildings with iron stair railings, parked sedans along the curb, palm trees and bare desert mountains behind, empty asphalt street running through the foreground, cool blue shadows pooled at ground level and warm amber light striking the upper walls, composition centered on one lit second-floor window.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/1884608d-0fd3-4f35-b31e-117ab277854d_0ed8f4fb.png",
+   "start": 0.0,
+   "frames": 113
+  },
+  {
+   "n": 2,
+   "text": "The most famous trader in mafia history is asleep in a secret apartment ",
+   "framing": "medium",
+   "angle": "top_down",
+   "motion": "zoom_in",
+   "image_prompt": "Overhead view of a faceless white mannequin man asleep on his back in a rumpled bed, gray sheets pulled to his chest, dim bedroom with heavy drawn curtains, a thin band of dawn light striping the carpet, nightstand holding a wristwatch and a glass of water, muted blue shadows filling the corners of the room.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/cc18f65d-19e4-479d-8fe8-659a98033423_fb1b4628.png",
+   "start": 3.78,
+   "frames": 139
+  },
+  {
+   "n": 3,
+   "text": "9 miles from his family, surrounded by guns. ",
+   "framing": "close_up",
+   "angle": "eye_level",
+   "motion": "zoom_in",
+   "image_prompt": "Close-up of two black semi-automatic pistols and a loaded magazine resting on a wooden nightstand beside a folded pair of glasses and a set of car keys, dim bedroom falling away out of focus behind them, a sliver of cold dawn light catching the nearest metal slide, deep blue shadows across the wood.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/a7da0049-6067-4771-9977-f84f2188ca1c_68c1e66e.png",
+   "start": 8.4,
+   "frames": 123
+  },
+  {
+   "n": 4,
+   "text": "Two conspiracies hold his address. ",
+   "framing": "medium",
+   "angle": "top_down",
+   "motion": "zoom_in",
+   "image_prompt": "Overhead view of a green desk mat holding two manila dossier folders lying open side by side, each containing a printed street map of the same Phoenix apartment block with one address circled in red ink, a black telephone and a coffee cup at the edge of the frame, flat cold overhead office light.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/8233a968-74f4-4481-bb73-a140172d4663_82427d78.png",
+   "start": 12.49,
+   "frames": 64
+  },
+  {
+   "n": 5,
+   "text": "One carries federal warrants ",
+   "framing": "close_up",
+   "angle": "high",
+   "motion": "static",
+   "image_prompt": "Close-up of a printed federal arrest warrant lying on a gray metal desk, the lower half of the page marked with a red ink stamp, a pen and a set of steel handcuffs laid across one corner, fluorescent light falling straight down, pale paper glowing against dark steel with the red stamp as the focal point.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/f47dfd90-442d-4d41-a9b8-979123454623_fc2b1ae2.png",
+   "start": 14.63,
+   "frames": 68
+  },
+  {
+   "n": 6,
+   "text": "and it is rolling toward his doors right now.\n",
+   "framing": "wide",
+   "angle": "high",
+   "motion": "pan_right",
+   "image_prompt": "High angle view of a column of dark unmarked sedans and one black van moving along a straight desert road at dawn, saguaro cactus and low scrub lining both shoulders, tan earth meeting pale blue sky, long vehicle shadows stretched across the asphalt, small green timestamp badge reading 5:47 a.m. in the lower left corner.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/e32253e7-02a5-45f9-afd9-3041ae6b6d9d_06979251.png",
+   "start": 16.91,
+   "frames": 77
+  },
+  {
+   "n": 7,
+   "text": "The other flew in under bought names ",
+   "framing": "medium",
+   "angle": "eye_level",
+   "motion": "zoom_in",
+   "image_prompt": "Faceless white mannequin man in a dark windbreaker standing at an airport rental car counter, sliding a driver's license and a credit card across the laminate top toward a uniformed clerk, a duffel bag at his feet, backlit signage and beige terminal walls behind him, flat fluorescent overhead light, muted grays and cool blue shadows.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/7a60c9d7-2275-43f0-8566-0c1208a712bc_c93fcae7.png",
+   "start": 19.45,
+   "frames": 71
+  },
+  {
+   "n": 8,
+   "text": "with Gambino money behind it ",
+   "framing": "medium",
+   "angle": "eye_level",
+   "motion": "zoom_in",
+   "image_prompt": "Faceless white mannequin man in a dark suit setting an open briefcase of banded cash down on a card table inside a dim back room, folding chairs and an espresso cup beside it, a second suited figure standing half in shadow behind him, a single hanging bulb throwing warm light straight down onto the money.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/6354d1c0-0b3d-44df-b2bd-75bcb1c51c37_c7a03cea.png",
+   "start": 21.82,
+   "frames": 52
+  },
+  {
+   "n": 9,
+   "text": "and three guns waiting in the desert. ",
+   "framing": "wide",
+   "angle": "low",
+   "motion": "pan_left",
+   "image_prompt": "Low angle wide view of three faceless white mannequin men standing in an empty desert lot at dusk, two holding long rifles down at their sides and one leaning against the hood of a parked sedan, scrub brush and distant mountains behind them, dust hanging in the air, dark figures against a cooling orange sky.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/56b53d15-60c2-4611-a1c5-1ab4a3b8ea20_8defe1f1.png",
+   "start": 23.56,
+   "frames": 71
+  },
+  {
+   "n": 10,
+   "text": "Months of surveillance done, ",
+   "framing": "medium",
+   "angle": "eye_level",
+   "motion": "static",
+   "image_prompt": "Interior of a parked surveillance van, a long telephoto camera resting on a padded case, a stack of black and white photographs showing an apartment stairwell fanned across the bench seat, spiral notebooks and a steel thermos beside them, dim daylight filtering through tinted windows, cool gray and blue tones throughout.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/36450625-466e-4d4d-a23e-6554e3c63bea_589e8fb1.png",
+   "start": 25.92,
+   "frames": 50
+  },
+  {
+   "n": 11,
+   "text": "its shooting plan in the final stages. ",
+   "framing": "medium",
+   "angle": "low",
+   "motion": "zoom_in",
+   "image_prompt": "Low angle view of a scarred wooden table holding a hand-drawn floor plan and a street map weighted down by an open box of ammunition, a faceless white mannequin hand tracing a marked route across the paper with one finger, a bare bulb overhead casting hard warm light and long shadows into the room.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/c4b86186-8327-4788-a338-dc79076b9859_b7b309c1.png",
+   "start": 27.61,
+   "frames": 83
+  },
+  {
+   "n": 12,
+   "text": "If the warrants don't take Sammy the Bull Gravano this morning, ",
+   "framing": "wide",
+   "angle": "eye_level",
+   "motion": "zoom_in",
+   "image_prompt": "Wide view of an exterior apartment walkway at dawn, four faceless white mannequin agents in raid vests stacked in a line along the stucco wall beside a plain brown door, the lead figure holding a battering ram, iron railing running out to the frame edge, cold blue morning light, mountains beyond the roofline.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/d3a803fa-d587-4843-a5aa-0b7431c8708d_dbfc2d4c.png",
+   "start": 30.38,
+   "frames": 103
+  },
+  {
+   "n": 13,
+   "text": "the guns get their window.",
+   "framing": "wide",
+   "angle": "eye_level",
+   "motion": "zoom_out",
+   "image_prompt": "Wide view of an empty gravel lot on the edge of a Phoenix suburb at sunrise, a single sedan parked facing a distant row of low tan apartment buildings, fresh tire tracks cut through the dust, long shadows reaching across the ground, pale orange sky above cool blue-gray terrain, no figures anywhere in frame.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/c543d72f-2f74-45bd-a85b-31928ce85de3_5fb50954.png",
+   "start": 33.79,
+   "frames": 44
+  }
+ ]
+}

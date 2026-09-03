@@ -1,0 +1,16 @@
+You are analysing a YouTube video so that its visual style can be recreated for a different script. Watch the whole video. Return ONLY one valid JSON object: no markdown fence, no commentary. Use null when unknown. Be concrete. Percentages are integers 0-100. Colours are hex estimates.
+
+{
+ "meta": {"duration_seconds": 0, "aspect_ratio": "16:9", "estimated_shot_count": 0, "average_shot_seconds": 0, "shortest_shot_seconds": 0, "longest_shot_seconds": 0},
+ "visual_medium": {"type": "photo|3d_render|ai_image|illustration|painting|stock_footage|mixed", "description": "one paragraph: what the images look like, realism, grain, sharpness, era feel, how you can tell they are generated or real", "recurring_artifacts": ["tells such as melted hands, repeated faces"]},
+ "palette": {"dominant_hex": ["#RRGGBB"], "accent_hex": ["#RRGGBB"], "temperature": "warm|cool|neutral|mixed", "contrast": "low|medium|high", "saturation": "muted|natural|vivid", "grade_notes": "e.g. teal shadows, orange highlights, lifted blacks"},
+ "lighting": {"sources": ["firelight", "overcast daylight"], "quality": "hard|soft|diffused|mixed", "direction_pattern": "backlit, side, top", "notes": ""},
+ "camera": {"angles_pct": {"eye_level": 0, "low": 0, "high": 0, "aerial": 0}, "framing_pct": {"wide": 0, "medium": 0, "close_up": 0, "macro": 0}, "depth_of_field": "shallow|deep|mixed", "lens_feel": "wide|normal|telephoto|mixed"},
+ "motion": {"still_images_pct": 0, "generated_video_pct": 0, "real_footage_pct": 0, "still_motion": "static|slow_zoom_in|slow_zoom_out|pan|ken_burns_mixed", "zoom_amount": "e.g. 5-10 percent over the shot", "transition": "hard_cut|crossfade|dip_to_black|mixed", "transition_seconds": 0},
+ "on_screen_text": {"captions_present": false, "caption_style": {"position": "bottom|center|top", "words_per_line": 0, "font": "", "colour_hex": "", "stroke": "", "uppercase": false, "animation": "pop|none|karaoke"}, "titles_or_labels": "diagrams, labels, arrows, chapter cards, or none", "diagram_style": ""},
+ "subjects": {"people": "how people are shown: clothing era, faces visible or not, age patterns, how many per frame", "settings": ["recurring environments"], "objects": ["recurring props"], "scale_cues": ""},
+ "audio": {"narration_voice": "gender, age, accent, pace, tone", "music": "present|absent, genre, volume relative to voice", "sfx": "present|absent, examples"},
+ "structure": {"hook_seconds": 0, "hook_description": "what happens visually in the first 20 seconds", "chapters": [{"start": 0, "label": ""}], "cta_visuals": ""},
+ "prompt_prefix": "ONE sentence, at most 60 words, to put in front of every image prompt so the output matches this video. Cover medium, palette, lighting, lens, era. No subject.",
+ "negative_prompt": "what must not appear, comma separated"
+}

@@ -1,0 +1,136 @@
+{
+ "beats": [
+  {
+   "n": 1,
+   "text": "Somewhere in Iceland more than a thousand years ago, a family is asleep on a winter night. ",
+   "framing": "wide",
+   "angle": "eye_level",
+   "motion": "zoom_in",
+   "image_prompt": "A low turf-roofed longhouse half buried in a snowdrift on an empty white plain, thick grass and sod covering its curved roof, brown timber gable at centre, one small doorway spilling warm amber light across the blue snow, dark navy night sky with scattered stars above, distant grey mountains on the horizon, drifting snowflakes across the foreground.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/23bdf823-ad98-4740-9c8d-d7334f2e2a4e_27014503.png",
+   "start": 0.0,
+   "end": 5.76,
+   "frames": 173
+  },
+  {
+   "n": 2,
+   "text": "Outside, the wind is strong enough to strip the skin off an unprotected face, ",
+   "framing": "medium",
+   "angle": "eye_level",
+   "motion": "static",
+   "image_prompt": "A bearded man in a hooded wool cloak standing outside in the storm, one forearm raised across his face, body hunched and turned away, sharp white wind streaks and ice shards driving horizontally across the frame from the left, snow packed on his shoulders and beard, pale blue tinge on his cheeks, dark navy sky and grey-white snow behind him.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/6185bb7b-cbe5-4d65-b4bf-a47cf6c797d9_389e55da.png",
+   "start": 5.76,
+   "end": 10.41,
+   "frames": 139
+  },
+  {
+   "n": 3,
+   "text": "and the temperature has fallen to minus 30 degrees Celsius, maybe lower. ",
+   "framing": "close_up",
+   "angle": "eye_level",
+   "motion": "static",
+   "image_prompt": "A tall outdoor thermometer mounted on a weathered timber post, its blue column sunk far down near the very bottom of the scale, frost crystals and hanging icicles clinging to the glass tube and the wood, swirling white snow behind it against a dark slate sky, a small blue label plate beneath the bulb reading exactly MINUS 30 C.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/1f49dd67-a33f-4bcf-83f7-8851f4a2c494_b8489077.png",
+   "start": 10.41,
+   "end": 15.16,
+   "frames": 143
+  },
+  {
+   "n": 4,
+   "text": "Inside, under a roof made of grass, ",
+   "framing": "wide",
+   "angle": "eye_level",
+   "motion": "static",
+   "image_prompt": "Cutaway side view of the longhouse sliced open, thick green sod and dark soil layers forming the roof and walls over timber rafters, a long stone hearth glowing orange down the middle of the packed earth floor, low sleeping platforms along both walls, warm amber light filling the room, cold blue snow and black sky pressed against the outer turf.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/1832f33b-bf78-4595-9a78-a0506452c6c5_a69ce975.png",
+   "start": 15.16,
+   "end": 18.0,
+   "frames": 85
+  },
+  {
+   "n": 5,
+   "text": "the air is warm enough to sleep without furs pulled over your head.\n",
+   "framing": "close_up",
+   "angle": "eye_level",
+   "motion": "static",
+   "image_prompt": "Close view of a family asleep on a low timber sleeping platform, a bearded father, a woman and a small child lying under a single thin woollen blanket folded down below their chins, faces uncovered and peaceful, heavy fur pelts pushed aside in a heap at their feet, soft orange hearth glow washing across them, dark timber wall behind.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/885fe697-b30d-4aa4-9f46-77bec71bedac_2f0c98d0.png",
+   "start": 18.0,
+   "end": 21.55,
+   "frames": 106
+  },
+  {
+   "n": 6,
+   "text": "There's no chimney pumping heat through pipes. ",
+   "framing": "medium",
+   "angle": "eye_level",
+   "motion": "static",
+   "image_prompt": "A brick chimney stack beside a run of metal heating pipes feeding a white radiator, arranged together on a plain pale grey background, one large red X struck across the whole group, a puzzled bearded man in a blue tunic standing at the right with empty upturned palms, a thin grey smoke wisp curling from the chimney top.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/d6f0186b-e409-4bed-be2f-fe1529036329_aafc7670.png",
+   "start": 21.55,
+   "end": 23.91,
+   "frames": 71
+  },
+  {
+   "n": 7,
+   "text": "Nothing that looks by modern standards like a heating system at all. ",
+   "framing": "medium",
+   "angle": "eye_level",
+   "motion": "static",
+   "image_prompt": "A modern inspector in a white lab coat and round glasses standing inside the bare main room of the turf house, clipboard in hand, looking around at plain earthen walls with no vents, no radiators and no ductwork anywhere, only a shallow empty stone trench cut into the floor, cool grey daylight falling from a small square roof opening.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/bf304615-9b5a-4b2d-9835-9e76684b1e57_5f0c494d.png",
+   "start": 23.91,
+   "end": 27.71,
+   "frames": 114
+  },
+  {
+   "n": 8,
+   "text": "And yet the house works.\n",
+   "framing": "medium",
+   "angle": "low",
+   "motion": "zoom_in",
+   "image_prompt": "Low ground-level angle on the snow-covered turf longhouse, warm orange light beaming from its open doorway and from the roof smoke hole out across the blue snow, soft amber warmth rings radiating around the roofline, sod roof crusted white, solid brown timber gable at centre, dark storm clouds and blowing snow filling the sky above.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/bf897e00-6fb7-4242-99de-2263239fe39f_2e2a1d3c.png",
+   "start": 27.71,
+   "end": 29.59,
+   "frames": 57
+  },
+  {
+   "n": 9,
+   "text": "It worked for centuries. ",
+   "framing": "wide",
+   "angle": "eye_level",
+   "motion": "pan_right",
+   "image_prompt": "Three turf farmhouses receding in a row across a snowy valley, each one older and more weathered than the one before, sod roofs heavy with dry grass, small figures in wool cloaks walking on the packed path between them, a low pale yellow sun resting on the horizon casting long blue shadows over the snow, grey mountains behind.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/6ecce528-6c4e-4d6f-bd9d-f72227561e48_fff059c3.png",
+   "start": 29.59,
+   "end": 30.96,
+   "frames": 41
+  },
+  {
+   "n": 10,
+   "text": "In a few places it still does. ",
+   "framing": "wide",
+   "angle": "high",
+   "motion": "static",
+   "image_prompt": "High angle view of a small cluster of grass-roofed turf houses still standing in a green valley, their sod roofs bright with summer grass and wildflowers, a gravel track curving past the doors, two visitors in bright red and blue jackets standing beside a small parked van for scale, grey-green mountains and flat overcast sky beyond.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/ab08922d-cad7-4759-9211-14f9065d56ed_9ea672cd.png",
+   "start": 30.96,
+   "end": 33.18,
+   "frames": 66
+  },
+  {
+   "n": 11,
+   "text": "The people who built it left behind no engineering diagrams and no owner manuals.",
+   "framing": "medium",
+   "angle": "eye_level",
+   "motion": "static",
+   "image_prompt": "Two bearded builders in wool tunics walking away from the viewer toward a finished turf house, wooden tools slung over their shoulders, leaving behind a plain wooden table in the foreground holding one blank sheet of parchment and one closed leather book with an empty cover, no drawings anywhere, flat overcast daylight, brown timber and pale parchment against green sod.",
+   "image_url": "https://audio.algrow.online/studio/images/73332679-bfa4-45ec-82cd-2eaac2f8a0fe/72d726bb-813a-41af-a181-23e012b96b5e_1b6be7e7.png",
+   "start": 33.18,
+   "end": 37.968,
+   "frames": 144
+  }
+ ]
+}

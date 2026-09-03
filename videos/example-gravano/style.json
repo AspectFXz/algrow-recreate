@@ -1,0 +1,139 @@
+{
+ "meta": {
+  "duration_seconds": 1443.0,
+  "aspect_ratio": "16:9",
+  "estimated_shot_count": 380,
+  "average_shot_seconds": 3.8,
+  "shortest_shot_seconds": 1.0,
+  "longest_shot_seconds": 12.0
+ },
+ "visual_medium": {
+  "type": "mixed",
+  "description": "Photorealistic 3D CGI animation featuring faceless white mannequin humans in detailed real-world environments, interspersed with retro CRT monitor pixel art and archival rasterized stills.",
+  "recurring_artifacts": [
+   "Smooth featureless white faces",
+   "Static mannequin expressions",
+   "Subtle AI frame blending"
+  ]
+ },
+ "palette": {
+  "dominant_hex": [
+   "#1a242f",
+   "#3c4a57",
+   "#cbd5e1",
+   "#234237"
+  ],
+  "accent_hex": [
+   "#00ff66",
+   "#ff1a1a",
+   "#10336e"
+  ],
+  "temperature": "cool",
+  "contrast": "medium",
+  "saturation": "muted",
+  "grade_notes": "Cool corporate shadows, institutional desaturation, vibrant terminal green text overlays, and red stamp accents."
+ },
+ "lighting": {
+  "sources": [
+   "diffuse daylight",
+   "fluorescent overheads",
+   "single hanging tungsten bulb",
+   "computer monitor glow"
+  ],
+  "quality": "diffused",
+  "direction_pattern": "overhead institutional, top-down domestic, soft ambient frontal",
+  "notes": "Cinematic realism with muted, moody institutional falloff."
+ },
+ "camera": {
+  "angles_pct": {
+   "eye_level": 55,
+   "low": 15,
+   "high": 15,
+   "aerial": 15
+  },
+  "framing_pct": {
+   "wide": 40,
+   "medium": 45,
+   "close_up": 15,
+   "macro": 0
+  },
+  "depth_of_field": "mixed",
+  "lens_feel": "normal"
+ },
+ "motion": {
+  "still_images_pct": 15,
+  "generated_video_pct": 75,
+  "real_footage_pct": 10,
+  "still_motion": "slow_zoom_in",
+  "zoom_amount": "3-8 percent slow drift",
+  "transition": "mixed",
+  "transition_seconds": 0.3
+ },
+ "on_screen_text": {
+  "captions_present": true,
+  "caption_style": {
+   "position": "center",
+   "words_per_line": 4,
+   "font": "Monospace Courier / Terminal",
+   "colour_hex": "#00ff66",
+   "stroke": "none",
+   "uppercase": false,
+   "animation": "pop"
+  },
+  "titles_or_labels": "Terminal-style green CRT overlays, classified stamp graphics, chapter cards, time stamps",
+  "diagram_style": "8-bit retro green-phosphor radar and map graphics"
+ },
+ "subjects": {
+  "people": "Faceless, smooth white mannequin heads dressed in detailed mid-2010s clothing, postal uniforms, and federal suits.",
+  "settings": [
+   "suburban kitchen",
+   "garage workshop",
+   "federal office cubicles",
+   "radar control rooms",
+   "airfield tarmac",
+   "US Capitol lawn"
+  ],
+  "objects": [
+   "ultralight gyrocopter",
+   "USPS mail trays",
+   "letters",
+   "manila dossier files",
+   "radar screens"
+  ],
+  "scale_cues": "Capitol dome, tarmac hangars, passenger vehicles"
+ },
+ "audio": {
+  "narration_voice": "Male, middle-aged, North American, clinical investigative pace, serious dramatic tone.",
+  "music": "present, dark ambient synth and suspenseful pulse, medium-low under voice",
+  "sfx": "present, gyrocopter rotor spin, mechanical switches, camera shutter, telephone audio"
+ },
+ "structure": {
+  "hook_seconds": 24,
+  "hook_description": "Gyrocopter lands on the US Capitol lawn with armed police rushing in; reveal of mail trays with 535 letters.",
+  "chapters": [
+   {
+    "start": 56,
+    "label": "Chapter I: Two Men at the Door"
+   },
+   {
+    "start": 276,
+    "label": "Chapter II: Project Kitty Hawk"
+   },
+   {
+    "start": 503,
+    "label": "Chapter III: Wheels Up"
+   },
+   {
+    "start": 961,
+    "label": "Chapter IV: The Landing"
+   },
+   {
+    "start": 1120,
+    "label": "Chapter V: The Last Delivery"
+   }
+  ],
+  "cta_visuals": "End screen card linking to another investigative documentary over a dark federal building background."
+ },
+ "prompt_prefix": "Cinematic photorealistic 3D render, smooth featureless white mannequin heads with realistic bodies, muted cool institutional color palette, soft diffuse overhead fluorescent lighting, 35mm lens, atmospheric realism, subtle documentary grain.",
+ "negative_prompt": "human facial features, eyes, nose, mouth, anime, cartoon, high saturation, fantasy elements, deformed geometry"
+}

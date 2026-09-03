@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "duration_seconds": 713,
+  "aspect_ratio": "16:9",
+  "estimated_shot_count": 125,
+  "average_shot_seconds": 5.7,
+  "shortest_shot_seconds": 2.0,
+  "longest_shot_seconds": 12.0
+ },
+ "visual_medium": {
+  "type": "illustration",
+  "description": "2D digital vector cartoon animation and architectural infographic diagrams. Features thick black outlines, flat solid colors with minimal cel-shading, and simplified educational comic book character designs with round white heads and expressive eyes.",
+  "recurring_artifacts": [
+   "clean vector linework",
+   "interchangeable cartoon character faces",
+   "technical blueprint cross-sections"
+  ]
+ },
+ "palette": {
+  "dominant_hex": [
+   "#E5E7EB",
+   "#8B5A2B",
+   "#3B7A57",
+   "#1E293B",
+   "#D97706"
+  ],
+  "accent_hex": [
+   "#EF4444",
+   "#38BDF8",
+   "#FACC15"
+  ],
+  "temperature": "mixed",
+  "contrast": "high",
+  "saturation": "vivid",
+  "grade_notes": "High contrast between freezing icy blues/whites and glowing hearth fire orange/amber tones."
+ },
+ "lighting": {
+  "sources": [
+   "hearth firelight glow",
+   "overcast daylight",
+   "flat digital ambient"
+  ],
+  "quality": "diffused",
+  "direction_pattern": "ambient front with local radial fire glows",
+  "notes": "Flat diagrammatic lighting supplemented with stylized radial warmth waves around heat sources."
+ },
+ "camera": {
+  "angles_pct": {
+   "eye_level": 80,
+   "low": 5,
+   "high": 15,
+   "aerial": 0
+  },
+  "framing_pct": {
+   "wide": 40,
+   "medium": 45,
+   "close_up": 15,
+   "macro": 0
+  },
+  "depth_of_field": "deep",
+  "lens_feel": "normal"
+ },
+ "motion": {
+  "still_images_pct": 100,
+  "generated_video_pct": 0,
+  "real_footage_pct": 0,
+  "still_motion": "ken_burns_mixed",
+  "zoom_amount": "5-10 percent digital push-in",
+  "transition": "hard_cut",
+  "transition_seconds": 0
+ },
+ "on_screen_text": {
+  "captions_present": false,
+  "caption_style": {
+   "position": "bottom",
+   "words_per_line": 0,
+   "font": "",
+   "colour_hex": "",
+   "stroke": "",
+   "uppercase": false,
+   "animation": "none"
+  },
+  "titles_or_labels": "bold uppercase infographic text boxes, labeled cutaway diagrams, temperature indicators, and airflow arrows",
+  "diagram_style": "comic-style architectural section views with labelled callout lines and red/blue convective flow paths"
+ },
+ "subjects": {
+  "people": "Stick-proportioned cartoon Norse Vikings with brown beards and horned helmets alongside modern stick figures.",
+  "settings": [
+   "sub-arctic blizzard landscapes",
+   "turf longhouse interiors",
+   "cross-section earth shelters",
+   "modern eco-house blueprints"
+  ],
+  "objects": [
+   "stone hearth pits",
+   "soapstone blocks",
+   "turf sod bricks",
+   "thermometers",
+   "cows and sheep"
+  ],
+  "scale_cues": "Human stick figures placed next to walls, trenches, and beds for structural proportion."
+ },
+ "audio": {
+  "narration_voice": "male, mid-30s, energetic North American accent, articulate educational pacing",
+  "music": "present, upbeat electronic acoustic explainer background track, moderate low volume",
+  "sfx": "present, wind whistling, fire crackling, whoosh sound effects, stone scraping"
+ },
+ "structure": {
+  "hook_seconds": 22,
+  "hook_description": "A cartoon man shivers violently in a sub-zero blizzard before entering an ancient cozy longhouse at 20\u00b0C.",
+  "chapters": [
+   {
+    "start": 0,
+    "label": "Introduction: Surviving the Arctic Cold"
+   },
+   {
+    "start": 54,
+    "label": "Ancient Norse Longhouse Engineering"
+   },
+   {
+    "start": 153,
+    "label": "The Sod & Turf Wall Envelope"
+   },
+   {
+    "start": 245,
+    "label": "Subterranean Geothermal Heat"
+   },
+   {
+    "start": 324,
+    "label": "The Eldst\u00f3 Thermal Stone Hearth"
+   },
+   {
+    "start": 426,
+    "label": "The Lj\u00f3ri Stack-Effect Ventilation"
+   },
+   {
+    "start": 498,
+    "label": "Soapstone Bed Radiators"
+   },
+   {
+    "start": 585,
+    "label": "Livestock Body-Heat Systems"
+   },
+   {
+    "start": 633,
+    "label": "Modern Passive House Applications"
+   }
+  ],
+  "cta_visuals": "Animated cartoon host beside a fireplace with subscribe, bell, and like button graphics."
+ },
+ "prompt_prefix": "Clean 2D vector educational cartoon illustration, bold crisp black outlines, flat colors, subtle cel shading, architectural infographic diagram elements, vibrant dual-temperature palette of cool ice blues and warm hearth ambers, wide clear framing, deep focus.",
+ "negative_prompt": "photorealistic, 3d render, realistic textures, grainy photo, messy sketches, blurry line art, film grain, complex gradients"
+}
